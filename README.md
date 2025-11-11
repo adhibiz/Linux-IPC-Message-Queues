@@ -27,7 +27,8 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
-
+![alt text](IMG/image-1.png)
+![alt text](IMG/image.png)
 
 
 
